@@ -12,5 +12,5 @@ In terms of directory within the scripts, I will be replacing the project folder
 You can start off by looking at the following documentations:
 1) Setting up WINSCP and PUTTY (_WINSCP and PUTTY setup_22032024.docx_)
 2) FIGARO and FASTP setup (_FIGARO and FASTP setup_15032024.docx_)
-3) Illumina sequencing pipeline (_Illumina sequence pipeline_17032024.docx_)
+3) Illumina sequencing pipeline (_Illumina sequence pipeline_03062024.docx_)
 4) Leave one out at a time, LOO (_Leave one out at a time (LOO) pipeline_17032024.docx_)
