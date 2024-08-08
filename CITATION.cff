@@ -14,7 +14,7 @@ authors:
     affiliation: Monash University
     orcid: 'https://orcid.org/0000-0002-8798-4895'
 repository-code: >-
-  https://github.com/MonashOWL/Bioinformatics-IlluminaMGI/blob/main/16S/Leave%20one%20out%20at%20a%20time%20(LOO)%20pipeline_17032024.docx
+  https://github.com/MonashOWL/Bioinformatics-IlluminaMGI/
 url: 'https://github.com/MonashOWL/Bioinformatics-IlluminaMGI'
 version: '17032024'
 date-released: '2024-03-17'
