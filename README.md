@@ -14,3 +14,4 @@ You can start off by looking at the following documentations:
 2) FIGARO and FASTP setup (_FIGARO and FASTP setup_15032024.docx_)
 3) Illumina sequencing pipeline (_Illumina sequence pipeline_03062024.docx_)
 4) Leave one out at a time, LOO (_Leave one out at a time (LOO) pipeline_17032024.docx_)
+5) Source variability, i.e., assessing source library based on number of included source samples (_Source variability pipeline_30102024.docx_)
