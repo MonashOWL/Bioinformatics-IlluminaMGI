@@ -16,4 +16,4 @@ You can start off by looking at the following documentations:
 4) Leave one out at a time, LOO (_Leave one out at a time (LOO) pipeline_17032024.docx_) - located in **16S** folder
 5) Source variability, i.e., assessing source library based on number of included source samples (_Source variability pipeline_30102024.docx_) - located in **16S** folder
 
-For these pipeline, at minimum you would need to have Python (for LOO (4) and source variability (5)) (https://www.python.org/), QIIME2 (https://qiime2.org/) and SourceTracker (https://github.com/caporaso-lab/sourcetracker2).  
+For these pipeline, at minimum you would need to have Python (for LOO (4) and source variability (5)) (https://www.python.org/), QIIME2 (https://qiime2.org/) and SourceTracker (https://github.com/caporaso-lab/sourcetracker2). These software are freely available to be used.
