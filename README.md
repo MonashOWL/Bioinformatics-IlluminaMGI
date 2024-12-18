@@ -11,9 +11,9 @@ In terms of directory within the scripts, I will be replacing the project folder
 
 You can start off by looking at the following documentations:
 1) Setting up WINSCP and PUTTY (_WINSCP and PUTTY setup_22032024.docx_)
-2) FIGARO and FASTP setup (_FIGARO and FASTP setup_15032024.docx_)
-3) Illumina sequencing pipeline (_Illumina sequence pipeline_03062024.docx_)
-4) Leave one out at a time, LOO (_Leave one out at a time (LOO) pipeline_17032024.docx_)
-5) Source variability, i.e., assessing source library based on number of included source samples (_Source variability pipeline_30102024.docx_)
+2) FIGARO and FASTP setup (_FIGARO and FASTP setup_15032024.docx_) - located in **16S** folder
+3) Illumina sequencing pipeline (_Illumina sequence pipeline_03062024.docx_) - located in **16S** folder
+4) Leave one out at a time, LOO (_Leave one out at a time (LOO) pipeline_17032024.docx_) - located in **16S** folder
+5) Source variability, i.e., assessing source library based on number of included source samples (_Source variability pipeline_30102024.docx_) - located in **16S** folder
 
 For these pipeline, at minimum you would need to have Python (for LOO (4) and source variability (5)), QIIME2 (https://qiime2.org/) and SourceTracker (https://github.com/caporaso-lab/sourcetracker2).  
