@@ -17,3 +17,5 @@ You can start off by looking at the following documentations:
 5) Source variability, i.e., assessing source library based on number of included source samples (_Source variability pipeline_30102024.docx_) - located in **16S** folder
 
 For these pipeline, at minimum you would need to have Python (for LOO (4) and source variability (5)) (https://www.python.org/), QIIME2 (https://qiime2.org/) and SourceTracker (https://github.com/caporaso-lab/sourcetracker2). These software are freely available to be used.
+
+For any questions, please feel free to email me at timothy.lim@monash.edu, or contact OneWater Laboratory at onewater@monash.edu.
