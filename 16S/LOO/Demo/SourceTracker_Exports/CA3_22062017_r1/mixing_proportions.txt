@@ -1,0 +1,2 @@
+SampleID	Bat	Cow	Human	Unknown
+CA3_22062017	0.0	0.30565	0.0	0.69435
