@@ -1,0 +1,2 @@
+SampleID	Bat	Cow	Human	Unknown
+PO-12-11-18	0.0	0.0	0.6876	0.3124
