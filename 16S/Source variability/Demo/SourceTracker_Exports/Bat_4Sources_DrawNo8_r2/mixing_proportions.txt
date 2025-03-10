@@ -1,0 +1,2 @@
+SampleID	Bat	Cow	Human	Unknown
+Bat-poo-4	0.87585	0.0	0.0	0.12414999999999998
