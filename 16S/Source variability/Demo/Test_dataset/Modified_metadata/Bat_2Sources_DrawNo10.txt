@@ -1,0 +1,16 @@
+#SampleID	Env	SourceSink
+Bat-poo-3	Bat	sink
+Bat-poo-4	Bat	sink
+Bat-poo-5	Bat	sink
+Bat-poo-6	Bat	source
+Bat-poo-C	Bat	source
+CA1_20062017	Cow	source
+CA2_22062017	Cow	source
+CA3_22062017	Cow	source
+CA4_06072017	Cow	source
+CA5_06072017	Cow	source
+PO-12-03-18	Human	source
+PO-12-11-18	Human	source
+PO-14-05-18	Human	source
+PO-18-03-19	Human	source
+PO-18-09-17	Human	source
