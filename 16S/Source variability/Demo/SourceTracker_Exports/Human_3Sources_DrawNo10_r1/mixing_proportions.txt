@@ -1,0 +1,3 @@
+SampleID	Bat	Cow	Human	Unknown
+PO-12-11-18	5e-05	0.0	0.68115	0.3188
+PO-18-03-19	0.0	0.0	0.6306	0.3694
