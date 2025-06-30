@@ -12,7 +12,7 @@ In terms of directory within the scripts, I will be replacing the project folder
 You can start off by looking at the following documentations:
 1) Setting up WINSCP and PUTTY (_WINSCP and PUTTY setup_22032024.docx_)
 2) FIGARO and FASTP setup (_FIGARO and FASTP setup_15032024.docx_) - located in **16S** folder
-3) Illumina sequencing pipeline (_Illumina sequence pipeline_03062024.docx_) - located in **16S** folder
+3) Illumina sequencing pipeline (_Illumina sequence pipeline_30062025.docx_) - located in **16S** folder
 4) Leave one out, LOO (_Leave one out at a time (LOO) pipeline_17032024.docx_) - located in **16S** folder (note that there is a demo folder and Jupyter notebook to better visualise the process)
 5) Source variability, i.e., assessing source library based on number of included source samples (_Source variability pipeline_30102024.docx_) - located in **16S** folder (note that there is a demo folder and Jupyter notebook to better visualise the process)
 
